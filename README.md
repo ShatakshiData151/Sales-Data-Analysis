@@ -6,7 +6,7 @@ The workflow includes **data cleaning**, **exploratory data analysis (EDA)**, an
 
 
 ## Project Structure
-sales-data-analytics
+```sales-data-analytics
 │
 ├── README.md                      # Project documentation
 ├── data_raw                       # Original unprocessed dataset
