@@ -17,7 +17,7 @@ The workflow includes **data cleaning**, **exploratory data analysis (EDA)**, an
 │   ├── sales_analysis.ipynb
 ├── visuals                        # Power BI dashboard file
 └── dashboard.pbix  
-
+```
 
 ## Technologies Used
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
